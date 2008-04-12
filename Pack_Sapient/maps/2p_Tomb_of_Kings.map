@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+    Ww,    Ww,       Wo,       Wo,       Wo,       Wo,       Ww,       Dd,       Dd,       Dd,   Dd,       Wo,       Ww,       Wo,       Wo,    Uu,       Uu,       Xu,       Xu,       Xu,       Xu,       Xu
+    Ww,    Ww^Vm,       Wo,       Wo,       Wo,       Wo,       Ww,       Dd,       Dd,       Dd,   Dd^Vda,       Wo,       Ww,       Wo,       Wo,    Uu^Vu,       Uu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Wo,       Wo,       Xu,       Xu,       Ww,       Ww,       Xu,       Ww,       Xu,       Ww,       Ww,       Ww,       Xu,       Ww,       Ww,       Wo,       Ai,       Xu,       Aa,       Aa,       Aa,       Aa
+       Hh,       Hh,       Hh,       Xu,       Ww,       Xu,    Uu^Vu,       Xu,       Kh,       Xu,       Xu,       Xu,    Uu^Vu,       Xu,       Xu,       Ai,       Aa,       Aa,     2 Ke,       Aa,       Aa,       Aa
+       Mm,       Mm,       Gg,       Ww,       Xu,       Xu,       Uu,       Ch,       Ch,       Ch,       Uu,       Rd,       Uu,       Uu,       Xu,       Aa,       Aa,       Ce,       Ce,       Ce,       Rr,       Rr
+    Gs^Fp,    Gs^Fp,       Hh,       Ww,       Ww,       Uu,       Rd,       Uu,       Ch,       Uu,    Uu^Vu,       Uu,    Uu^Vu,       Uu,       Xu,       Re,       Re,       Aa,       Rr,       Rr,       Aa,       Aa
+       Gg,       Gg,    Gs^Fp,       Ww,       Xu,    Uu^Vu,       Xu,       Xu,       Ch,       Xu,       Xu,       Xu,       Xu,       Xu,    Gs^Ft,       Md,       Hd,       Re,       Rr,       Re,   Aa^Vha,   Aa
+       Gg,       Gg,   Gs^Vht,       Ww,       Ww,       Xu,       Xu,       Ch,      Qxu,       Ch,       Xu,       Ss,   Ss^Vhs,       Mm,       Hd,    Gs^Ft,       Md,       Re,       Rr,       Re,       Re,       Re
+       Hh,       Hh,       Gg,       Gg,       Gg,       Wo,       Ch,       Ch,      Qxu,       Ch,       Ch,       Ss,    Gs^Fp,       Ss,       Rr,       Rr,       Rr,       Rr,       Re,       Rd,       Rd,       Rd
+       Hh,       Hh,       Mm,       Gg,   Gs^Vht,       Wo,       Wo,       Ch,   Ww^Bw|,       Ch,       Hh,       Ss,       Gg,       Rr,       Re,      Cud,       Hd,    Gs^Ft,    Gs^Ft,       Re,       Re,       Re
+       Gg,       Gg,   Gs^Vht,       Gg,       Gg,       Gg,       Gg,       Ww,       Gg,       Ww,      Wwf,    Gs^Fp,       Rr,       Rr,       Gs,       Re,    Gs^Ft,       Md,       Re,       Re,       Rd,       Rd
+       Gg,       Gg,       Gs,       Gs,       Mm,    Gs^Fp,       Gg,       Gg,       Rr,       Rr,    Gs^Fp,      Wwf,       Ww,       Gs,       Ww,       Gs,       Gs,       Re,       Re,   Gs^Vht,       Re,       Re
+       Gg,       Gg,       Gs,    Gs^Fp,    Gs^Fp,       Hh,      Chr,       Gg,       Rr,       Gg,       Ss,       Hh,      Cud,   Ww^Bw|,      Cud,       Wo,       Wo,   Gs^Vht,       Re,       Md,       Hd,       Hd
+       Gg,       Gg,       Gg,       Gg,       Rr,       Rr,       Rr,       Rr,       Ss,    Gs^Fp,       Ss,      Cud,      Cud,       Ql,      Cud,      Cud,       Wo,       Gs,       Gs,       Re,       Hd,       Hd
+       Gs,       Gs,       Gs,       Rr,       Gg,       Mm,    Gs^Fp,       Hh,       Mm,   Ss^Vhs,       Ss,       Xu,      Cud,       Ql,      Cud,       Xu,       Xu,       Ww,       Ww,   Gs^Vht,       Rd,       Rd
+   Aa,   Aa^Vha,       Rr,       Rr,       Gs,       Hh,       Mm,    Gs^Fp,       Xu,       Xu,       Xu,       Xu,       Xu,      Cud,       Xu,       Xu,    Uu^Vu,       Xu,       Ww,       Re,       Re,       Re
+       Aa,       Aa,       Rr,       Aa,       Aa,       Gs,       Gs,       Xu,       Uu,    Uu^Vu,       Uu,    Uu^Vu,       Uu,      Cud,       Uu,       Re,       Uu,       Ww,       Ww,       Hd,    Gs^Ft,    Gs^Ft
+       Rr,       Rr,       Ce,       Ce,       Ce,       Aa,       Aa,       Xu,       Uu,       Uu,       Re,       Uu,      Cud,      Cud,      Cud,       Uu,       Xu,       Xu,       Ww,       Re,       Md,       Md
+       Aa,       Aa,       Aa,     1 Ke,       Aa,       Aa,       Ai,       Xu,       Xu,    Uu^Vu,       Xu,       Xu,       Xu,       Kud,       Xu,    Uu^Vu,       Xu,       Ww,       Xu,       Hd,       Hd,       Hd
+       Aa,       Aa,       Aa,       Aa,       Xu,       Ai,       Wo,       Ww,       Ww,       Xu,       Ww,       Ww,       Ww,       Xu,       Ww,       Xu,       Ww,       Ww,       Xu,       Xu,       Wo,       Wo
+       Xu,       Xu,       Xu,       Xu,       Xu,       Uu,    Uu^Vu,       Wo,       Wo,       Ww,       Wo,   Dd^Vdt,       Dd,       Dd,       Dd,       Ww,       Wo,       Wo,       Wo,       Wo,    Ww^Vm,    Ww
+       Xu,       Xu,       Xu,       Xu,       Xu,       Uu,    Uu,       Wo,       Wo,       Ww,       Wo,   Dd,       Dd,       Dd,       Dd,       Ww,       Wo,       Wo,       Wo,       Wo,    Ww,    Ww

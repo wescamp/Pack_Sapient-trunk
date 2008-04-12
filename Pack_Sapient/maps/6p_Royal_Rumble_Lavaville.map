@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,       Xu,       Xu,      Qxu,       Xu,      Qxu,       Xu,       Xu,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud
+      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,       Xu,       Xu,      Qxu,       Xu,      Qxu,       Xu,       Xu,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud
+       Cud,       Kud,       Kud,      Cud,      Cud,      Cud,       Xu,       Xu,      Cud,       Uu,      Qxu,      Qxu,      Qxu,       Uu,      Cud,       Xu,       Xu,      Cud,      Cud,      Cud,       Kud,       Cud
+       Ql,       Ql,       Ql,       Kud,       Xu,       Xu,      Qxu,       Uu,      Qxu,      Qxu,       Xu,       Xu,       Xu,      Qxu,      Qxu,       Uu,      Qxu,       Xu,       Xu,       Kud,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,       Xu,       Xu,      Qxu,      Qxu,       Xu,       Xu,      Cud,     1 Kud,      Cud,       Xu,       Xu,      Qxu,      Qxu,       Xu,       Xu,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,       Xu,      Qxu,      Qxu,       Xu,     6 Kud,      Cud,      Cud,      Cud,      Cud,      Cud,     2 Kud,       Xu,      Qxu,      Qxu,       Xu,       Ql,       Ql,       Ql
+       Ql,       Ql,      Cud,       Ql,       Xu,       Uu,      Qxu,       Xu,      Cud,      Cud,   Uu^Vud,   Uu^Vud,   Uu^Vud,      Cud,      Cud,       Xu,      Qxu,       Uu,       Xu,       Ql,      Cud,      Cud
+      Cud,      Cud,      Cud,       Kud,       Xu,      Cud,      Qxu,       Xu,      Cud,      Cud,   Uu^Vud,       Ql,   Uu^Vud,      Cud,      Cud,       Xu,      Qxu,      Cud,       Xu,       Kud,      Cud,      Cud
+       Ql,       Ql,       Ql,       Ql,       Xu,       Uu,      Qxu,       Xu,     5 Kud,      Cud,      Cud,   Uu^Vud,      Cud,      Cud,     3 Kud,       Xu,      Qxu,       Uu,       Xu,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,       Xu,      Qxu,      Qxu,       Xu,       Xu,      Cud,      Cud,      Cud,      Cud,      Cud,       Xu,       Xu,      Qxu,      Qxu,       Xu,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,       Xu,       Xu,      Qxu,      Qxu,      Qxu,       Xu,       Xu,     4 Kud,       Xu,       Xu,      Qxu,      Qxu,      Qxu,       Xu,       Xu,       Ql,       Ql,       Ql
+       Ql,       Ql,       Kh,       Kh,       Ql,       Xu,       Xu,       Uu,      Cud,      Qxu,      Qxu,       Xu,      Qxu,      Qxu,      Cud,       Uu,       Xu,       Xu,       Ql,       Kh,       Kh,       Ch
+       Ch,       Kh,       Ql,       Ql,       Ql,       Ql,       Ql,       Xu,       Xu,       Uu,      Qxu,      Qxu,      Qxu,       Uu,       Xu,       Xu,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,       Kud,       Ql,       Xu,       Xu,       Xu,       Xu,       Xu,       Ql,       Kud,      Cud,       Ql,       Ql,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql,       Xu,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql,       Ql,       Kh,       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql,       Ql,       Ql,       Kh,       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql,       Ql,       Ql,       Kh,       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql
+       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Kh,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,       Ql,       Ql
+       Ql,       Ql,      Cud,      Cud,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Kh,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,      Cud,      Cud
+       Ql,       Ql,       Kud,      Cud,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Kh,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,       Kud,       Cud
+       Ql,       Ql,       Cud,      Cud,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Ch,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,       Ql,      Cud,       Cud,       Cud

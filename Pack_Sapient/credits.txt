@@ -1,0 +1,17 @@
+﻿Credits :
+- German Translation : Max Lupke
+- Dutch Translation : Foppe Benedictus
+- Danish Translation : Joe Hansen
+- Catalan Translation : Jose Gordillo
+- Italian Translation : Brivido
+- Russian Translation : Nikita
+- Czech Translation : Oto 'tapik' Buchta, Vladimír Slávik
+- French Translation : Damien, Guillaume Massart
+- Spanish Translation : Elestel
+- Pseudo-Random Generator  : Elvish Pillager
+- Royal Rumble Lava-Village :
+  * map design from Drakeprince's "Rumble Extreme"
+    and some code from Swordy/Frezycus "The Grand Royal Rumble"
+- Miscellanous ideas & help : Doc Paterson, Soliton, Bhetendos, Nickname, Becephalus, and probably various others
+- And of course many thanks to the Wesnoth Development team :)
+- Updated for BfW 1.4: Mythological

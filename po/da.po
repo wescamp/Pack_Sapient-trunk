@@ -1,0 +1,576 @@
+# Danish translation of wesnoth-Pack Sapient (da.po)
+# Dansk oversættelse for wesnoth-Pack Sapient (da.po).
+# Copyright (C) 2007 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-03-13 20:47+0100\n"
+"PO-Revision-Date: 2007-04-06 13:15+0200\n"
+"Last-Translator: Joe Hansen\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# gravmæle kunne også være gravkapel
+#. multiplayer
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
+msgid "2p - Tomb of Kings"
+msgstr "2. - Kongernes gravmæle"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
+msgid ""
+"Long ago, two powerful kings died in a battle near this cave. All war ceased "
+"when both sides agreed to built great shrines in their honor. (Recommended "
+"setting of 1 gold per village)"
+msgstr ""
+"For lang tid siden, døde to magtfulde konger i et slag nær denne hule. Alle "
+"krigshandlinger stoppede da begge sider blev enige om at bygge store "
+"helligdomme til deres ære. (Anbefalet indstilling på 1 guldstykke per "
+"landsby)."
+
+#. side
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:24
+#, fuzzy
+msgid "South"
+msgstr "syd"
+
+#. side
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:36
+#, fuzzy
+msgid "North"
+msgstr "nord"
+
+#. objectives
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:43
+msgid "Recommended setting: 1gpv"
+msgstr "Anbefalet indstilling: 1gpv"
+
+#. objective: condition=win
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:45
+msgid "Defeat the enemy leader."
+msgstr "Besejr den fjendtlige leder."
+
+#. objective: condition=lose
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:49
+msgid "Your leader dies."
+msgstr "Din leder dør."
+
+#. objective: condition=lose
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:99
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:121
+msgid "End of turns."
+msgstr "Tiden er løbet ud."
+
+#. objectives
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:56
+msgid "A section of the tomb wall crumbles on turn 20."
+msgstr "En sektion af gravmælets væg faldt sammen på runde 20."
+
+#. message: speaker=narrator
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:71
+msgid "The earth shakes."
+msgstr "Jorden ryster."
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:9
+msgid "4p - Mega War (2v2)"
+msgstr "4p - Krig i stor skala (2x2)"
+
+# Her er jeg godt nok i tvivl
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:11
+msgid ""
+"The kingdoms of the legs fight against those in the blaster and ear. "
+"(Recommended setting of 1 gold per village and Great War Era)"
+msgstr ""
+"Benenes kongedømme kæmper mod vinde og ører. (Anbefalet indstilling på 1 "
+"guldstykke per landsby og den store krigs tid)"
+
+#. time
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:22
+msgid "Magical Darkness"
+msgstr "Magisk mørke"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:34
+msgid "Left Leg"
+msgstr "Venstre ben"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:36
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:62
+msgid "south"
+msgstr "syd"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:47
+msgid "Control Chip"
+msgstr "Kontrolchip"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:49
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:75
+msgid "north"
+msgstr "nord"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:60
+msgid "Right Leg"
+msgstr "Højre ben"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:73
+msgid "X-Blaster"
+msgstr "X-Blaster"
+
+#. objectives
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:89
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:111
+msgid "Recommended settings: 1gpv, Great War Era"
+msgstr "Anbefalet indstilling: 1gpv, den store krigs tid"
+
+#. objective: condition=win
+#. objective: condition=lose
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:91
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:117
+msgid "Death of the northern alliance leaders."
+msgstr "Den nordlige allianceleders død."
+
+#. objective: condition=lose
+#. objective: condition=win
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:95
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:113
+msgid "Death of the southern alliance leaders."
+msgstr "Den sydlige allianceleders død."
+
+# Har warp et selvstændigt dansk ord ?
+#. objectives
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:126
+msgid ""
+"There are three warp gates (Ice, Sand, and Darkness).\n"
+"Anyone can use them to travel to the other gates.\n"
+"If the destination gate is occupied, the units will swap places."
+msgstr ""
+"Der er tre warpindgange (Is, Sand, og Mørke).\n"
+"Alle kan bruge dem til at rejse til de andre indgange.\n"
+"Hvis destinationsindgangen er optaget, vil enhederne bytte plads."
+
+#. message: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:207
+msgid "The portal is inscribed with three runes. What will you do?"
+msgstr "Portalen har tre runer indgraveret. Hvad gør du?"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:209
+msgid "Press the Sand Rune"
+msgstr "Tryk på sandrunen"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:213
+msgid "Press the Ice Rune"
+msgstr "Tryk på isrunen"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:217
+msgid "Press the Darkness Rune"
+msgstr "Tryk på mørkets rune"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
+#, fuzzy
+msgid "4p - Northerners RPG"
+msgstr "4p - NorthernRPG"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
+msgid "A multiplayer map for the Northerners in an RPG-style scenario."
+msgstr "Et flerspiller kort for Northernerer i et RPG-scenarie."
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
+msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
+msgstr "(Forslag: Krigståge, 1gpv, 70 runder, brug kortindstillinger)"
+
+# Ikke afklaret
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:40
+msgid "Lotus Blossom"
+msgstr "Lotus Blossom"
+
+# Første del ikke afklaret
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:43
+msgid "The Lotus heightens zen; ranged weapons are faster."
+msgstr "Lotus heigtens zen; afstandsvåben er hurtigere."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:44
+msgid "I hate flowers!"
+msgstr "Jeg hader blomster!"
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:85
+msgid "An old suit of Armor"
+msgstr "Et gammel rustningssæt"
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:88
+msgid "This armor is old, but it fits great! Ready for more beatings."
+msgstr ""
+"Denne rustning er gammel, men den passer perfekt! Den er klar til flere tæsk."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:89
+msgid "The armor looks nice, but it's too bulky for me to carry."
+msgstr "Rustningen er fin, men den er for stor og tung til mig."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:140
+msgid "Holy Water"
+msgstr "Helligt vand."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:143
+msgid "This water will make melee weapons holy."
+msgstr "Dette vand vil gøre nærkampsvåben hellige."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:144
+msgid "I am not suited to the use of this item! Let another take it."
+msgstr "Jeg kan ikke bruge denne genstand! Lad en anden få den."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:184
+msgid "Skeletal Claw"
+msgstr "Skeletklo"
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:187
+msgid "You find a lich's claw, and it hovers at your side obediently."
+msgstr "Du finder en lichs klo, og den svæver lydigt ved din side."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:188
+msgid "I ain't touching it."
+msgstr "Jeg rører den ikke."
+
+#. effect: type=cold
+#. attack_filter
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:200
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:214
+msgid "lich's claw"
+msgstr "Lichklo"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:261
+msgid "Orcish Grunt"
+msgstr ""
+
+#. side
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:276
+msgid "Troll Whelp"
+msgstr ""
+
+#. side
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:290
+msgid "Orcish Archer"
+msgstr ""
+
+#. side
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:304
+msgid "Orcish Assassin"
+msgstr ""
+
+#. trait
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:434
+msgid "quick"
+msgstr "hurtig"
+
+#. objective: condition=win
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:510
+msgid "Follow the thief!"
+msgstr "Følg efter tyven!"
+
+#. objective: condition=win
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:518
+msgid "Investigate the area behind the waterfall."
+msgstr "Undersøg området bag vandfaldet."
+
+#. objective: condition=lose
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
+msgid "Death of all characters."
+msgstr ""
+
+#. message: speaker=OrcLeader
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:588
+msgid "My gold! My precious gold! Who has stolen it?"
+msgstr "Mit guld! Mit vidunderlige guld! Hvem har stjået det?"
+
+#. message: speaker=ThiefLeader
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:592
+msgid "Yoink! That was easy."
+msgstr "Tjung! Det var let."
+
+#. message: speaker=OrcLeader
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:618
+msgid ""
+"After him, you worthless louts! He went behind the waterfall.\n"
+"\n"
+"...and don't come back without my gold, or I'll kill you all myself!"
+msgstr ""
+"Efter ham, dit værdiløse fjols! Han forsvandt bag vandfaldet.\n"
+"\n"
+"...og kom ikke tilbage uden mit guld, eller jeg dræber jer alle!"
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:810
+msgid "Village secured."
+msgstr "Landby sikret."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:837
+msgid "You can't stop me! Never!"
+msgstr "Du kan ikke stoppe mig! Aldrig!"
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:940
+msgid "There's a secret passage here."
+msgstr "Der er en hemmelig gang her."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:963
+msgid "This slab won't budge. Maybe if I had a large enough lever."
+msgstr ""
+"Denne træstykke giver sig ikke. Måske hvis jeg havde en modvægt der var stor "
+"nok."
+
+#. message: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1024
+msgid "The great tree seems to be decaying. What will you do?"
+msgstr "Det store træ ser ud til at rådne. Hvad ønsker du at gøre?"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1026
+msgid "Pull off a branch"
+msgstr "Riv en gren af"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1055
+msgid "Leave it alone"
+msgstr "Lad det være"
+
+# har med vilje erstatter : med ; 
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1073
+msgid "At last, I claim my rightful place: as leader of this clan."
+msgstr "Endelig, jeg kræver min retmæssige plads; som leder af denne klan."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1115
+msgid "Look, a ship! Time to get out of here."
+msgstr "Se, et skip! På tide at komme væk."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
+msgid ""
+"Ah! So you must be the ones who took our sacred tree.\n"
+"\n"
+"Since its loss, my people have lost our way and become pirates."
+msgstr ""
+"Ah! Så du er den person, som tog vores hellige træ.\n"
+"\n"
+"Siden tabet, har mit folk mistet deres indtægt og er blevet pirater."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
+msgid ""
+"I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
+"\n"
+"You're next, foolish elf."
+msgstr ""
+"Jeg tog ikke dit hellige træ, men måske slog jeg det ihjel. Ha.\n"
+"\n"
+"Du er den næste i række, tåbelige elf."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1264
+msgid "Pirates! You won't take this land without a fight"
+msgstr "Pirater! I vil ikke tage dette land uden kamp"
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1270
+msgid ""
+"Look! Don't you remember me?\n"
+"\n"
+"We went into the caves to find the thief, but he must have died inside. We "
+"never found him."
+msgstr ""
+"Hør! Kan du ikke huske mig?\n"
+"\n"
+"Vi gik ind i hulerne for at finde tyven, men han må være omkommet derinde. "
+"Vi fandt ham ikke."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1274
+msgid "You... look familiar. But, no! It's impossible."
+msgstr "Du... ser bekendt ud. Men, nej! Det er umuligt."
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
+msgid "4p - Traitor's Island 2v2"
+msgstr "4p - Forræderens ø 2v2"
+
+# Her er jeg godt nok i tvivl
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
+msgid "A 'tactical nightmare' where your ally is also your comedy relief."
+msgstr "Et taktisk mareridt hvor din allierede også øver din sorte humor."
+
+#. objectives
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:26
+msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
+msgstr " Anbefalet indstilling til heltenes æra og 50 guldstykker i opstart."
+
+#. objective: condition=win
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
+msgid "Kill enemy leaders!"
+msgstr "Dræb fjendtlige ledere!"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
+#, fuzzy
+msgid "6p - Royal Rumble Lava-Village"
+msgstr "Kongelig brummende lavalandsby"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
+#, fuzzy
+msgid ""
+"Six rulers vie for the control of Lava Village, where there is told to be an "
+"ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
+msgstr ""
+"\n"
+"Seks regenter kæmper for kontrollen med lavalandsbyen, hvor sagnet siger der "
+"ligger et ældgammelt gravmæle med mægtige krafter. (Forslag: 30 % erf., 5 "
+"gpv)"
+
+#. time
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:15
+msgid "Day"
+msgstr ""
+
+#. time
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:23
+msgid "Night"
+msgstr ""
+
+#. objectives
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:155
+msgid "Time is shifting fast."
+msgstr "Der er forandring i luften."
+
+#. objectives
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
+msgid "Find the Dark Tome!"
+msgstr "Find det mørke gravmæle!"
+
+#. objectives
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
+msgid ""
+"\n"
+"`Note: When a leader dies, all of his troops leave the battle, unless one of "
+"them holds the book of power (which is hidden in a random village)."
+msgstr ""
+"\n"
+"`Bemærk: Når en leder dør, forlader alle hans tropper slagmarken, med mindre "
+"en af dem har magtbogen (som ligger skjult i en tilfældig landsby)."
+
+#. object
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:311
+msgid "Dark Tome"
+msgstr "Mørkt gravmæle"
+
+#. object
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:314
+msgid "A Dark Tome was found here."
+msgstr "Et mørkt gravmæle blev fundet her."
+
+#. object
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:315
+msgid "A Dark Tome was found here, but you could not understand it."
+msgstr ""
+"Et mørkt gravmæle blev fundet her, men du forstod ikke meningen med "
+"gravmælet."
+
+#. effect: type=cold
+#. attack_filter
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:327
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:341
+msgid "dark tome"
+msgstr "mørkt gravmæle"
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
+msgid ""
+"\n"
+"There's no forest for you to hide in."
+msgstr ""
+"\n"
+"Der er ingen skov du kan gemme dig i."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
+msgid ""
+"\n"
+"There isn't? Oh..."
+msgstr ""
+"\n"
+"Er der ikke? Oh..."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
+msgid ""
+"\n"
+"Poisoning me will get you nowhere, criminal."
+msgstr ""
+"\n"
+"At forgifte mig vil ikke hjælpe dig forbryder."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
+msgid ""
+"\n"
+"Thanks for the advice."
+msgstr ""
+"\n"
+"Tak for rådet."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
+msgid ""
+"\n"
+"Alas... "
+msgstr ""
+"\n"
+"Arg... "
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
+msgid ""
+"\n"
+"Ngahaha... First kill! Who wants to be next?!"
+msgstr ""
+"\n"
+"Dim dam dum... Den første er nede! Hvem ønsker at blive den næste?!"

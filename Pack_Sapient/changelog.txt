@@ -1,0 +1,129 @@
+v.2
+-Updated and adapted for BfW 1.4
+16.02 2008
+
+1.1.4d
+-WesCamp
+ *Italian translation updated
+
+1.1.4c
+-WesCamp
+ *Danish translation updated
+
+1.1.4b
+-WesCamp
+ *German translation added
+ *French translation updated
+
+1.1.4a
+-WesCamp
+ *Czech translation updated
+
+1.1.4
+-WesCamp
+ *Dutch translation added
+-NorthernRPG
+ *modify turns to 99, since 70 was too restrictive
+
+1.1.3d
+-WesCamp
+ *Danish translation added
+ *Czech translation updated
+
+1.1.3c
+-RoyalRumbleLavaVillage
+ *Improved Vampire Lady's cheering
+
+1.1.3b
+-NorthernRPG
+ *modify turns to 70 for ease of setup
+ *added a waterfall graphic
+
+1.1.3
+-NorthernRPG
+ *bugfix (actually workaround for a wesnoth bug) with startup parameters
+
+1.1.2
+-NorthernRPG
+ *made setup easier
+-WesCamp
+ *Italian translation updated
+
+1.1.1d
+-WesCamp
+ *French translation updated
+
+1.1.1c
+-WesCamp
+ *Czech translation updated
+
+1.1.1b
+-WesCamp
+ *Spanish translation added
+ *French translation updated
+
+1.1.1a
+-Traitor's Island
+ *minor changes
+
+1.1.1
+-Traitor's Island
+ *boost terrain defense for west side
+
+1.1.0
+-Traitor's Island (new map)
+
+1.0.7
+-NorthernRPG
+ *work around preprocessor bug that was allowing some recruits
+ *no longer require movement to activate amla full heal
+ *prevent some bugs from players goofing around with Computer1's side
+
+1.0.6
+-NorthernRPG
+ *fixed bug that was disallowing all undos
+ *added a shroud remove for ship sighting
+-RoyalRumbleLavaVillage
+ *Added spectator units
+-WesCamp
+ *French translation updated
+
+1.0.5c
+-WesCamp
+ *Catalan translation updated
+
+1.0.5b
+-WesCamp
+ *Italian translation updated
+
+1.0.5a
+-WesCamp
+ *Russian and Catalan translations added
+ *French translation updated
+-NorthernRPG
+ *fixed some translateable strings
+
+1.0.5
+-WesCamp
+ *Italian, French, and Czech translations added
+
+1.0.4
+-WesCamp
+ *translation directory added
+-NorthernRPG
+ *fixed bug that was causing captured villages to be forgotten during re-loads
+-RoyalRumbleLavaVillage
+ *added more notes to the objectives pop-up (thanks ylmson and Noy)
+
+1.0.3
+-RoyalRumbleLavaVillage
+ *fixed translateable strings
+
+-NorthernRPG
+ *fixed translateable strings
+ *amla now causes full heal
+ *lowered difficulty settings
+
+1.0.2
+-NorthernRPG
+ *removed saurian augur and goblin rouser bug

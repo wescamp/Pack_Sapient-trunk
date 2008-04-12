@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-03-13 20:47+0100\n"
+"PO-Revision-Date: 2007-03-01 16:23+0100\n"
+"Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
+"Language-Team: none <foppe.benedictus@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
+msgid "2p - Tomb of Kings"
+msgstr "2p - Koningstombe"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
+msgid ""
+"Long ago, two powerful kings died in a battle near this cave. All war ceased "
+"when both sides agreed to built great shrines in their honor. (Recommended "
+"setting of 1 gold per village)"
+msgstr ""
+"Lang geleden twee machtige koningen stierven in een strijd bij deze grot. "
+"Alle oorlogen staakten toen beide partijen overeen kwamen om een groot "
+"monument te bouwen. (Aanbevolen instelling van 1 goudstuk per dorp)"
+
+#. side
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:24
+#, fuzzy
+msgid "South"
+msgstr "zuid"
+
+#. side
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:36
+#, fuzzy
+msgid "North"
+msgstr "noord"
+
+#. objectives
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:43
+msgid "Recommended setting: 1gpv"
+msgstr "Aanbevolen instelling: 1gpv"
+
+#. objective: condition=win
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:45
+msgid "Defeat the enemy leader."
+msgstr "Versla de vijandelijke leider."
+
+#. objective: condition=lose
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:49
+msgid "Your leader dies."
+msgstr "Jou leider sterft."
+
+#. objective: condition=lose
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:99
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:121
+msgid "End of turns."
+msgstr "Overschrijding van het aantal beurten"
+
+#. objectives
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:56
+msgid "A section of the tomb wall crumbles on turn 20."
+msgstr "Een deel van de tombe stort in tijdens beurt 20."
+
+#. message: speaker=narrator
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:71
+msgid "The earth shakes."
+msgstr "De aarde schud."
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:9
+msgid "4p - Mega War (2v2)"
+msgstr "4p - Mega oorlog (2v2)"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:11
+#, fuzzy
+msgid ""
+"The kingdoms of the legs fight against those in the blaster and ear. "
+"(Recommended setting of 1 gold per village and Great War Era)"
+msgstr ""
+"Het koninkrijk van de benen vecht tegen (Aanbevolen instelling van 1 "
+"goudstuk per dorp en Great War Era)"
+
+#. time
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:22
+msgid "Magical Darkness"
+msgstr "Magische duisternis"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:34
+msgid "Left Leg"
+msgstr "Linker been"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:36
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:62
+msgid "south"
+msgstr "zuid"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:47
+msgid "Control Chip"
+msgstr "Control Chip"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:49
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:75
+msgid "north"
+msgstr "noord"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:60
+msgid "Right Leg"
+msgstr "Rechter been"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:73
+msgid "X-Blaster"
+msgstr "X-Blaster"
+
+#. objectives
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:89
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:111
+msgid "Recommended settings: 1gpv, Great War Era"
+msgstr "Aanbevolen instellingen: 1gpv, Great War Era"
+
+#. objective: condition=win
+#. objective: condition=lose
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:91
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:117
+msgid "Death of the northern alliance leaders."
+msgstr "Dood van de noordelijke alliantie leiders."
+
+#. objective: condition=lose
+#. objective: condition=win
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:95
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:113
+msgid "Death of the southern alliance leaders."
+msgstr "Dood van de zuidelijke alliantie leiders."
+
+#. objectives
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:126
+msgid ""
+"There are three warp gates (Ice, Sand, and Darkness).\n"
+"Anyone can use them to travel to the other gates.\n"
+"If the destination gate is occupied, the units will swap places."
+msgstr ""
+"Er zijn drie teleportatiepoorten (ijs, zand en duisternis).\n"
+"Iedereen kan ze gebruiken om naar de andere poort te reizen.\n"
+"Als de bestemde poort bezet is zullen de eenheden van plaats wisselen. "
+
+#. message: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:207
+msgid "The portal is inscribed with three runes. What will you do?"
+msgstr "Deze portaal is beschreven met drie tekens. Wat ga je doen?"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:209
+msgid "Press the Sand Rune"
+msgstr "Druk het zand teken"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:213
+msgid "Press the Ice Rune"
+msgstr "Druk het ijs teken"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:217
+msgid "Press the Darkness Rune"
+msgstr "Druk het duisternis teken"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
+#, fuzzy
+msgid "4p - Northerners RPG"
+msgstr "4p - NoordelijkeRPG"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
+#, fuzzy
+msgid "A multiplayer map for the Northerners in an RPG-style scenario."
+msgstr ""
+"Een multiplayer kaart voor de Noordelijken en een RPG stijl scenario "
+"(Suggestie: fog of war, 1gpv, 70 beurten, Gebruik Map Settings)"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
+#, fuzzy
+msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
+msgstr ""
+"Een multiplayer kaart voor de Noordelijken en een RPG stijl scenario "
+"(Suggestie: fog of war, 1gpv, 70 beurten, Gebruik Map Settings)"
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:40
+msgid "Lotus Blossom"
+msgstr "Lotusbloesem"
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:43
+msgid "The Lotus heightens zen; ranged weapons are faster."
+msgstr "De lotus verhoogt zen; afstand wapens zijn sneller."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:44
+msgid "I hate flowers!"
+msgstr "Ik haat bloemen!"
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:85
+msgid "An old suit of Armor"
+msgstr "Een oude pantsering"
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:88
+msgid "This armor is old, but it fits great! Ready for more beatings."
+msgstr "Dit pantser is oud, maar het past precies! Klaar voor meer gevechten."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:89
+msgid "The armor looks nice, but it's too bulky for me to carry."
+msgstr "Het pantser lijkt leuk, maar het is te zwaar voor mij om te dragen."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:140
+msgid "Holy Water"
+msgstr "Heilig water"
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:143
+msgid "This water will make melee weapons holy."
+msgstr "Dit water maakt korte afstandswapens heilig."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:144
+msgid "I am not suited to the use of this item! Let another take it."
+msgstr ""
+"Ik ben niet uitgerust om dit item te gebruiken! Laat een ander het hebben."
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:184
+msgid "Skeletal Claw"
+msgstr ""
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:187
+msgid "You find a lich's claw, and it hovers at your side obediently."
+msgstr ""
+
+#. object
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:188
+msgid "I ain't touching it."
+msgstr "Ik zal het niet aanraken."
+
+#. effect: type=cold
+#. attack_filter
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:200
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:214
+#, fuzzy
+msgid "lich's claw"
+msgstr "lichs klauw"
+
+#. side
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:261
+msgid "Orcish Grunt"
+msgstr ""
+
+#. side
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:276
+msgid "Troll Whelp"
+msgstr ""
+
+#. side
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:290
+msgid "Orcish Archer"
+msgstr ""
+
+#. side
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:304
+msgid "Orcish Assassin"
+msgstr ""
+
+#. trait
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:434
+msgid "quick"
+msgstr "vlug"
+
+#. objective: condition=win
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:510
+msgid "Follow the thief!"
+msgstr "Volg de dief!"
+
+#. objective: condition=win
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:518
+msgid "Investigate the area behind the waterfall."
+msgstr "Onderzoek het gebied achter de waterval."
+
+#. objective: condition=lose
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
+msgid "Death of all characters."
+msgstr ""
+
+#. message: speaker=OrcLeader
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:588
+msgid "My gold! My precious gold! Who has stolen it?"
+msgstr "Mijn goud! Mijn waardevolle goud! Wie heeft dat gestolen?"
+
+#. message: speaker=ThiefLeader
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:592
+msgid "Yoink! That was easy."
+msgstr "Jeetje! Dat was makkelijk."
+
+#. message: speaker=OrcLeader
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:618
+msgid ""
+"After him, you worthless louts! He went behind the waterfall.\n"
+"\n"
+"...and don't come back without my gold, or I'll kill you all myself!"
+msgstr ""
+"Achter hem aan jullie waardelozen! Hij verdween achter de waterval.\n"
+"\n"
+"...en kom niet terug zonder mijn goud, anders vernietig ik jullie "
+"eigenhandig!"
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:810
+msgid "Village secured."
+msgstr "Dorp beveiligd."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:837
+msgid "You can't stop me! Never!"
+msgstr "Je kunt mij niet stoppen! Nooit!"
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:940
+msgid "There's a secret passage here."
+msgstr "Er is hier een geheime passage."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:963
+msgid "This slab won't budge. Maybe if I had a large enough lever."
+msgstr ""
+
+#. message: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1024
+msgid "The great tree seems to be decaying. What will you do?"
+msgstr "De grote boom lijkt te rotten. Wat ga je doen?"
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1026
+msgid "Pull off a branch"
+msgstr ""
+
+#. option: speaker=narrator
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1055
+msgid "Leave it alone"
+msgstr "Laat het met rust"
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1073
+msgid "At last, I claim my rightful place: as leader of this clan."
+msgstr "Eindelijk, ik neem mijn rechtmatige plek: leider van deze bende."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1115
+msgid "Look, a ship! Time to get out of here."
+msgstr "Kijk, een schip! Tijd om hier weg te gaan."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
+msgid ""
+"Ah! So you must be the ones who took our sacred tree.\n"
+"\n"
+"Since its loss, my people have lost our way and become pirates."
+msgstr ""
+"Ah! Dus jullie moeten degenen zijn die de heilige boom meegenomen hebben.\n"
+"\n"
+"Sinds zijn vertrek mijn volk is van het rechte pad en zijn piraten geworden."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
+msgid ""
+"I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
+"\n"
+"You're next, foolish elf."
+msgstr ""
+"Ik nam de heilige boom niet mee, maar misschien heb ik hem gedood. \n"
+"\n"
+"Jij bent de volgende, domme Elf."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1264
+msgid "Pirates! You won't take this land without a fight"
+msgstr "Piraten! Jullie zullen dit land niet innemen zonder gevecht"
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1270
+msgid ""
+"Look! Don't you remember me?\n"
+"\n"
+"We went into the caves to find the thief, but he must have died inside. We "
+"never found him."
+msgstr ""
+"Kijk dan! Herinner je me niet meer?\n"
+"\n"
+"We gingen de grot in om de dief te vonden, maar die moet daarbinnen "
+"gestorven zijn. We hebben hem nooit gevonden."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1274
+msgid "You... look familiar. But, no! It's impossible."
+msgstr "Jij... komt mij bekend voor. Maar, nee! Dat is onmogelijk."
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
+msgid "4p - Traitor's Island 2v2"
+msgstr ""
+
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
+msgid "A 'tactical nightmare' where your ally is also your comedy relief."
+msgstr ""
+
+#. objectives
+#. multiplayer
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:26
+msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
+msgstr ""
+
+#. objective: condition=win
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
+msgid "Kill enemy leaders!"
+msgstr "Versla de vijandelijke leiders!"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
+#, fuzzy
+msgid "6p - Royal Rumble Lava-Village"
+msgstr "Royaal Rommelig Lava-Dorp"
+
+#. multiplayer
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
+#, fuzzy
+msgid ""
+"Six rulers vie for the control of Lava Village, where there is told to be an "
+"ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
+msgstr ""
+"\n"
+"Zes leiders streven om controle over Lava-Dorp, waar een oud boekwerk van "
+"kracht schijnt te liggen. (Suggestie: 30% exp, 5 gpv)"
+
+#. time
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:15
+msgid "Day"
+msgstr ""
+
+#. time
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:23
+msgid "Night"
+msgstr ""
+
+#. objectives
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:155
+msgid "Time is shifting fast."
+msgstr "Tijd vliegt."
+
+#. objectives
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
+msgid "Find the Dark Tome!"
+msgstr "Vind het duistere boekwerk!"
+
+#. objectives
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
+msgid ""
+"\n"
+"`Note: When a leader dies, all of his troops leave the battle, unless one of "
+"them holds the book of power (which is hidden in a random village)."
+msgstr ""
+"\n"
+"`Opmerking: Als een leider sterft, alle eenheden verlaten het strijdtoneel, "
+"tenzij een van hen bezit het boek van kracht (dat verstopt is in een "
+"willekeurig dorp)."
+
+#. object
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:311
+msgid "Dark Tome"
+msgstr "Duister boekwerk"
+
+#. object
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:314
+msgid "A Dark Tome was found here."
+msgstr "Een duister boekwerk werd hier gevonden."
+
+#. object
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:315
+msgid "A Dark Tome was found here, but you could not understand it."
+msgstr "Een duister boekwerk werd hier gevonden, maar je begreep het niet."
+
+#. effect: type=cold
+#. attack_filter
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:327
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:341
+msgid "dark tome"
+msgstr "duister boekwerk"
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
+msgid ""
+"\n"
+"There's no forest for you to hide in."
+msgstr ""
+"\n"
+"Er is geen bos om in te verstoppen."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
+msgid ""
+"\n"
+"There isn't? Oh..."
+msgstr ""
+"\n"
+"Is dat er niet? Oh..."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
+msgid ""
+"\n"
+"Poisoning me will get you nowhere, criminal."
+msgstr ""
+"\n"
+"Mij vergiftigen heeft geen zin, crimineel."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
+msgid ""
+"\n"
+"Thanks for the advice."
+msgstr ""
+"\n"
+"Alvast bedankt."
+
+#. message: speaker=unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
+msgid ""
+"\n"
+"Alas... "
+msgstr ""
+"\n"
+"Alas..."
+
+#. message: speaker=second_unit
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
+msgid ""
+"\n"
+"Ngahaha... First kill! Who wants to be next?!"
+msgstr ""
+"\n"
+"Ngahaha... Eerste dode! Wie volgt?"
