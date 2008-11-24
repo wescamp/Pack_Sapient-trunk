@@ -1,16 +1,15 @@
-# Danish translation of wesnoth-Pack Sapient (da.po)
-# Dansk oversættelse for wesnoth-Pack Sapient (da.po).
-# Copyright (C) 2007 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+# Danish translation of Pack Sapient (da.po).
+# Copyright (C) 2008 Wesnoth Development Team and Joe Hansen.
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-14 21:11+0200\n"
-"PO-Revision-Date: 2007-04-06 13:15+0200\n"
-"Last-Translator: Joe Hansen\n"
+"POT-Creation-Date: 2008-11-24 23:13+0100\n"
+"PO-Revision-Date: 2008-11-17 13:15+0200\n"
+"Last-Translator: Joe Hansen <dansk@dansk-gruppen.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -37,15 +36,13 @@ msgstr ""
 
 #. [side]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:24
-#, fuzzy
 msgid "South"
-msgstr "syd"
+msgstr "Syd"
 
 #. [side]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:36
-#, fuzzy
 msgid "North"
-msgstr "nord"
+msgstr "Nord"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:43
@@ -186,14 +183,13 @@ msgstr "Tryk på mørkets rune"
 
 #. [multiplayer]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
-#, fuzzy
 msgid "4p - Northerners RPG"
-msgstr "4p - NorthernRPG"
+msgstr "4p - Nordboernes RPG"
 
 #. [multiplayer]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
-msgstr "Et flerspiller kort for Northernerer i et RPG-scenarie."
+msgstr "Et flerspiller-kort for nordboerne i et RPG-scenarie."
 
 #. [multiplayer]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
@@ -236,7 +232,7 @@ msgstr "Rustningen er fin, men den er for stor og tung til mig."
 #. [object]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:140
 msgid "Holy Water"
-msgstr "Helligt vand."
+msgstr "Helligt vand"
 
 #. [object]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:143
@@ -273,22 +269,22 @@ msgstr "Lichklo"
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:261
 msgid "Orcish Grunt"
-msgstr ""
+msgstr "Orksoldat"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:276
 msgid "Troll Whelp"
-msgstr ""
+msgstr "Troldehvalp"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:290
 msgid "Orcish Archer"
-msgstr ""
+msgstr "Orkbueskytte"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:304
 msgid "Orcish Assassin"
-msgstr ""
+msgstr "Orksnigmorder"
 
 #. [trait]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:434
@@ -308,7 +304,7 @@ msgstr "Undersøg området bag vandfaldet."
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
 msgid "Death of all characters."
-msgstr ""
+msgstr "Død over alle karakterer."
 
 #. [message]: speaker=OrcLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:588
@@ -443,25 +439,22 @@ msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
 msgstr " Anbefalet indstilling til heltenes æra og 50 guldstykker i opstart."
 
 #. [objective]: condition=win
-#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 msgid "Kill enemy leaders!"
 msgstr "Dræb fjendtlige ledere!"
 
 #. [multiplayer]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
-#, fuzzy
 msgid "6p - Royal Rumble Lava-Village"
-msgstr "Kongelig brummende lavalandsby"
+msgstr "6p - Kongelig brummende lavalandsby"
 
 #. [multiplayer]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
-#, fuzzy
 msgid ""
 "Six rulers vie for the control of Lava Village, where there is told to be an "
 "ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
-"\n"
 "Seks regenter kæmper for kontrollen med lavalandsbyen, hvor sagnet siger der "
 "ligger et ældgammelt gravmæle med mægtige krafter. (Forslag: 30 % erf., 5 "
 "gpv)"
@@ -469,12 +462,12 @@ msgstr ""
 #. [time]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:15
 msgid "Day"
-msgstr ""
+msgstr "Dag"
 
 #. [time]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:23
 msgid "Night"
-msgstr ""
+msgstr "Nat"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:155
