@@ -2,138 +2,143 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-14 21:11+0200\n"
-"PO-Revision-Date: 2006-08-12 14:51+0200\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2008-12-05 21:50+0100\n"
+"PO-Revision-Date: 2008-12-04 05:47+0200\n"
+"Last-Translator: Mikko Nikkilä <miccoh@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
-msgstr ""
+msgstr "2p – Kuninkaiden hauta"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
 msgid ""
 "Long ago, two powerful kings died in a battle near this cave. All war ceased "
 "when both sides agreed to built great shrines in their honor. (Recommended "
 "setting of 1 gold per village)"
 msgstr ""
+"Kauan sitten kaksi voimakasta kuningasta kuoli taistelussa lähellä tätä "
+"luolaa. Sota loppui, kun molemmat puolet sopivat rakentavansa suuret "
+"alttarit heidän kunniaksensa. (Suositellaan asetuksiksi 1 kultapalaa kylästä)"
 
 #. [side]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:24
 msgid "South"
-msgstr ""
+msgstr "Etelä"
 
 #. [side]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:36
 msgid "North"
-msgstr ""
+msgstr "Pohjoinen"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:43
 msgid "Recommended setting: 1gpv"
-msgstr ""
+msgstr "Suositeltu asetus: 1 kultapala/kylä"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:45
 msgid "Defeat the enemy leader."
-msgstr ""
+msgstr "Kukista vihollisjohtaja."
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:49
 msgid "Your leader dies."
-msgstr ""
+msgstr "Johtajasi kuolee."
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:99
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:121
 msgid "End of turns."
-msgstr ""
+msgstr "Vuorojen loppu."
 
 #. [objectives]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:56
 msgid "A section of the tomb wall crumbles on turn 20."
-msgstr ""
+msgstr "Osa haudasta romahtaa vuorolla 20."
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:71
 msgid "The earth shakes."
-msgstr ""
+msgstr "Maa tärisee."
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Mega_2v2
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:9
 msgid "4p - Mega War (2v2)"
-msgstr ""
+msgstr "4p – Megasota (2v2)"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Mega_2v2
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:11
 msgid ""
 "The kingdoms of the legs fight against those in the blaster and ear. "
 "(Recommended setting of 1 gold per village and Great War Era)"
 msgstr ""
+"Koipien kuningaskunta taistelee pamauttelijoita ja korvia vastaan. "
+"(Suositellaan asetuksiksi 1 kultapalaa kylästä ja Suuri sota -aikakausi)"
 
 #. [time]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:22
 msgid "Magical Darkness"
-msgstr ""
+msgstr "Maaginen pimeys"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:34
 msgid "Left Leg"
-msgstr ""
+msgstr "Vasen koipi"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:36
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:62
 msgid "south"
-msgstr ""
+msgstr "etelä"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:47
 msgid "Control Chip"
-msgstr ""
+msgstr "Hallintosiru"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:49
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:75
 msgid "north"
-msgstr ""
+msgstr "pohjoinen"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:60
 msgid "Right Leg"
-msgstr ""
+msgstr "Oikea koipi"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:73
 msgid "X-Blaster"
-msgstr ""
+msgstr "X-pamautin"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:89
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:111
 msgid "Recommended settings: 1gpv, Great War Era"
-msgstr ""
+msgstr "Suositellut asetukset: 1 kultapala/kylä, Suuri sota -aikakausi"
 
 #. [objective]: condition=win
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:91
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:117
 msgid "Death of the northern alliance leaders."
-msgstr ""
+msgstr "Pohjoisen liiton johtajien kuolema."
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:95
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:113
 msgid "Death of the southern alliance leaders."
-msgstr ""
+msgstr "Eteläisen liiton johtajien kuolema."
 
 #. [objectives]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
@@ -143,158 +148,165 @@ msgid ""
 "Anyone can use them to travel to the other gates.\n"
 "If the destination gate is occupied, the units will swap places."
 msgstr ""
+"On kolme vääristymäporttia (jää, hiekka ja pimeys).\n"
+"Kuka tahansa voi käyttää niitä matkatakseen toisille porteille.\n"
+"Jos päämääräportti on miehitetty, yksiköt vaihtavat paikkoja."
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:207
 msgid "The portal is inscribed with three runes. What will you do?"
-msgstr ""
+msgstr "Porttiin on kaiverrettu kolme riimua. Mitä teet?"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:209
 msgid "Press the Sand Rune"
-msgstr ""
+msgstr "Painan hiekkariimua"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:213
 msgid "Press the Ice Rune"
-msgstr ""
+msgstr "Painan jääriimua"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:217
 msgid "Press the Darkness Rune"
-msgstr ""
+msgstr "Painan pimeysriimua"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
 msgid "4p - Northerners RPG"
-msgstr ""
+msgstr "4p – Pohjalaiset-RPG"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
-msgstr ""
+msgstr "Moninpelikartta pohjalaisille RPG-tyylisessä skenaariossa."
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
-msgstr ""
+msgstr "(Ehdotus: sumu, 1 kultapala/kylä, 70 vuoroa, käytä kartta-asetuksia)"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:40
 msgid "Lotus Blossom"
-msgstr ""
+msgstr "Lootuskukoistus"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:43
 msgid "The Lotus heightens zen; ranged weapons are faster."
-msgstr ""
+msgstr "Lootus kohentaa zeniä – kaukotaisteluaseet ovat nopeampia."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:44
 msgid "I hate flowers!"
-msgstr ""
+msgstr "Vihaan kukkia!"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:85
 msgid "An old suit of Armor"
-msgstr ""
+msgstr "Vanha suoja-asu"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:88
 msgid "This armor is old, but it fits great! Ready for more beatings."
 msgstr ""
+"Tämä suojus on vanha, mutta se sopii mainiosti! Valmiina uusiin löylytyksiin."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:89
 msgid "The armor looks nice, but it's too bulky for me to carry."
 msgstr ""
+"Tämä suojus näyttää kivalta, mutta se on liian kookas minun kannettavakseni."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:140
 msgid "Holy Water"
-msgstr ""
+msgstr "Pyhä vesi"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:143
 msgid "This water will make melee weapons holy."
-msgstr ""
+msgstr "Tämä vesi tekee lähitaisteluaseet pyhiksi."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:144
 msgid "I am not suited to the use of this item! Let another take it."
 msgstr ""
+"En ole perillä siitä, kuinka tätä esinettä käytetään! Annetaan jonkun muun "
+"ottaa se."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:184
 msgid "Skeletal Claw"
-msgstr ""
+msgstr "Luukynsi"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:187
 msgid "You find a lich's claw, and it hovers at your side obediently."
-msgstr ""
+msgstr "Löydät kuolonherran kynnen ja se häilyy tottelevaisesti puolellasi."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:188
 msgid "I ain't touching it."
-msgstr ""
+msgstr "En koskenut siihen."
 
 #. [effect]: type=cold
 #. [attack_filter]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:200
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:214
 msgid "lich's claw"
-msgstr ""
+msgstr "kuolonherran kynsi"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:261
 msgid "Orcish Grunt"
-msgstr ""
+msgstr "Örkkisotilas"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:276
 msgid "Troll Whelp"
-msgstr ""
+msgstr "Peikonpentu"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:290
 msgid "Orcish Archer"
-msgstr ""
+msgstr "Jousiörkki"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:304
 msgid "Orcish Assassin"
-msgstr ""
+msgstr "Örkkisalamurhaaja"
 
-#. [trait]
+#. [trait]: id=quick
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:434
 msgid "quick"
-msgstr ""
+msgstr "nopea"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:510
 msgid "Follow the thief!"
-msgstr ""
+msgstr "Seuraa varasta!"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:518
 msgid "Investigate the area behind the waterfall."
-msgstr ""
+msgstr "Tutki alue vesiputouksen takana."
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
 msgid "Death of all characters."
-msgstr ""
+msgstr "Kaikkien hahmojen kuolema."
 
 #. [message]: speaker=OrcLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:588
 msgid "My gold! My precious gold! Who has stolen it?"
-msgstr ""
+msgstr "Kultapalani! Kalliit kultapalani! Kuka ne on varastanut?"
 
 #. [message]: speaker=ThiefLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:592
 msgid "Yoink! That was easy."
-msgstr ""
+msgstr "Joink! Se oli helppoa."
 
 #. [message]: speaker=OrcLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:618
@@ -303,51 +315,55 @@ msgid ""
 "\n"
 "...and don't come back without my gold, or I'll kill you all myself!"
 msgstr ""
+"Hänen jälkeensä, te arvottomat heittiöt! Hän meni vesiputouksen taakse.\n"
+"\n"
+"...eikä tule takaisin ilman kultapalojani tai tapan teidät kaikki itse!"
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:810
 msgid "Village secured."
-msgstr ""
+msgstr "Kylä turvattu."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:837
 msgid "You can't stop me! Never!"
-msgstr ""
+msgstr "Minua ei voi pysäyttää! Ei ikinä!"
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:940
 msgid "There's a secret passage here."
-msgstr ""
+msgstr "Täällä on salakäytävä."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:963
 msgid "This slab won't budge. Maybe if I had a large enough lever."
 msgstr ""
+"Tämä laatta ei hievahdakaan. Ehkä jos minulla olisi tarpeeksi suuri vipu."
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1024
 msgid "The great tree seems to be decaying. What will you do?"
-msgstr ""
+msgstr "Suuri puu näyttää lahoavan. Mitä teet?"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1026
 msgid "Pull off a branch"
-msgstr ""
+msgstr "Vetäisen oksasta"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1055
 msgid "Leave it alone"
-msgstr ""
+msgstr "Jätän sen yksin"
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1073
 msgid "At last, I claim my rightful place: as leader of this clan."
-msgstr ""
+msgstr "Lopultakin lunastan oikean paikkani – tämän klaanin johtajana."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1115
 msgid "Look, a ship! Time to get out of here."
-msgstr ""
+msgstr "Katso, laiva! Aika päästä täältä ulos."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
@@ -356,6 +372,9 @@ msgid ""
 "\n"
 "Since its loss, my people have lost our way and become pirates."
 msgstr ""
+"Ah! Siis teidän on oltava ne, jotka veivät pyhän puumme.\n"
+"\n"
+"Sen kadottua kansani on kadottanut tiemme ja ruvennut merirosvoiksi."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
@@ -364,11 +383,14 @@ msgid ""
 "\n"
 "You're next, foolish elf."
 msgstr ""
+"En vienyt pyhää puutanne, mutta saatoin tappaa sen. Heh.\n"
+"\n"
+"Sinä olet seuraava, hassu haltia."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1264
 msgid "Pirates! You won't take this land without a fight"
-msgstr ""
+msgstr "Merirosvot! Tätä maata ette saa taistelutta!"
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1270
@@ -378,66 +400,73 @@ msgid ""
 "We went into the caves to find the thief, but he must have died inside. We "
 "never found him."
 msgstr ""
+"Katso! Etkö muista minua?\n"
+"\n"
+"Menimme luoliin löytämään sen varkaan, mutta hänen on täytynyt kuolla "
+"sisällä. Emme koskaan löytäneet häntä."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1274
 msgid "You... look familiar. But, no! It's impossible."
-msgstr ""
+msgstr "Sinä... näytät tutulta. Mutta ei! Se on mahdotonta."
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
 msgid "4p - Traitor's Island 2v2"
-msgstr ""
+msgstr "4p – Petturin saari 2v2"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
 msgstr ""
+"”Taktinen painajainen”, jossa liittolaisesi on myös huvittava helpotuksesi."
 
 #. [objectives]
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:26
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
-msgstr ""
+msgstr " Suositellut asetukset: Sankareiden aikakausi ja 50 aloituskultapalaa."
 
 #. [objective]: condition=win
-#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 msgid "Kill enemy leaders!"
-msgstr ""
+msgstr "Kukista vihollisjohtajat!"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
 msgid "6p - Royal Rumble Lava-Village"
-msgstr ""
+msgstr "6p – Laavakylän kuninkaallinen rähinä"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
 msgid ""
 "Six rulers vie for the control of Lava Village, where there is told to be an "
 "ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
+"Kuusi johtajaa kilpailee Laavakylän hallinnasta, josta on kerrottu löytyvän "
+"muinainen mahdin opus. (Ehdotus: 30% kokemus, 5 kultapalaa/kylä)"
 
-#. [time]
+#. [time]: id=day
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:15
 msgid "Day"
-msgstr ""
+msgstr "Päivä"
 
-#. [time]
+#. [time]: id=night
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:23
 msgid "Night"
-msgstr ""
+msgstr "Yö"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:155
 msgid "Time is shifting fast."
-msgstr ""
+msgstr "Aika kuluu kuin siivillä."
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
 msgid "Find the Dark Tome!"
-msgstr ""
+msgstr "Löydä pimeä opus!"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
@@ -446,28 +475,32 @@ msgid ""
 "`Note: When a leader dies, all of his troops leave the battle, unless one of "
 "them holds the book of power (which is hidden in a random village)."
 msgstr ""
+"\n"
+"Huomaa: Kun johtaja kuolee, kaikki hänen joukkonsa vetäytyvät taistelusta, "
+"ellei jollakin heistä ole mahdin opusta (joka on piilotettu satunnaiseen "
+"kylään)."
 
-#. [object]
+#. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:311
 msgid "Dark Tome"
-msgstr ""
+msgstr "Pimeä opus"
 
-#. [object]
+#. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:314
 msgid "A Dark Tome was found here."
-msgstr ""
+msgstr "Pimeä opus löytyi täältä."
 
-#. [object]
+#. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:315
 msgid "A Dark Tome was found here, but you could not understand it."
-msgstr ""
+msgstr "Pimeä opus löytyi täältä, mutta et pysty ymmärtämään sitä."
 
 #. [effect]: type=cold
 #. [attack_filter]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:327
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:341
 msgid "dark tome"
-msgstr ""
+msgstr "pimeä opus"
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
@@ -475,6 +508,8 @@ msgid ""
 "\n"
 "There's no forest for you to hide in."
 msgstr ""
+"\n"
+"Täällä ei ole sinulle metsää, jossa piileskellä."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
@@ -482,6 +517,8 @@ msgid ""
 "\n"
 "There isn't? Oh..."
 msgstr ""
+"\n"
+"Eikö? Ai..."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
@@ -489,6 +526,8 @@ msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
 msgstr ""
+"\n"
+"Minun myrkyttämiselläni et saavuta mitään, roisto."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
@@ -496,6 +535,8 @@ msgid ""
 "\n"
 "Thanks for the advice."
 msgstr ""
+"\n"
+"Kiitos avusta."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
@@ -503,6 +544,8 @@ msgid ""
 "\n"
 "Alas... "
 msgstr ""
+"\n"
+"Harmi..."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
@@ -510,3 +553,5 @@ msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
+"\n"
+"Njähnjäh... Ensimmäinen tappo! Kuka haluaa seuraavaksi?!"
