@@ -1,139 +1,150 @@
+# Turkish translations for Battle for Wesnoth package.
+# Copyright (C) 2008 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-Pack_Sapient\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-14 21:11+0200\n"
-"PO-Revision-Date: 2006-08-12 14:51+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2008-12-05 21:50+0100\n"
+"PO-Revision-Date: 2008-12-29 01:59+0200\n"
+"Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
+"Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
-msgstr ""
+msgstr "2o - Krallar Anıtı"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
 msgid ""
 "Long ago, two powerful kings died in a battle near this cave. All war ceased "
 "when both sides agreed to built great shrines in their honor. (Recommended "
 "setting of 1 gold per village)"
 msgstr ""
+"Uzun zaman önce bu mağaranın yakınlarında iki güçlü kral öldü. Her iki taraf "
+"onların onuruna büyük anıtlar inşa etmeye karar verince tüm savaşlar sona "
+"erdi. (Köy başına 1 altın önerilir.)"
 
 #. [side]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:24
 msgid "South"
-msgstr ""
+msgstr "Güney"
 
 #. [side]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:36
 msgid "North"
-msgstr ""
+msgstr "Kuzey"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:43
 msgid "Recommended setting: 1gpv"
-msgstr ""
+msgstr "Önerilen ayar: Köy başına 1 altın"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:45
 msgid "Defeat the enemy leader."
-msgstr ""
+msgstr "Düşman liderini öldür"
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:49
 msgid "Your leader dies."
-msgstr ""
+msgstr "Lideriniz ölürse"
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:99
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:121
 msgid "End of turns."
-msgstr ""
+msgstr "Ellerin bitimi"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:56
 msgid "A section of the tomb wall crumbles on turn 20."
-msgstr ""
+msgstr "20.elde anıt duvarının bir bölümü yıkılır."
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:71
 msgid "The earth shakes."
-msgstr ""
+msgstr "Yer sarsılır."
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Mega_2v2
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:9
 msgid "4p - Mega War (2v2)"
-msgstr ""
+msgstr "4o - Mega Savaş (2y2)"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Mega_2v2
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:11
 msgid ""
 "The kingdoms of the legs fight against those in the blaster and ear. "
 "(Recommended setting of 1 gold per village and Great War Era)"
 msgstr ""
+"Bacakların liderlerine karşı kulaklık ve silahtaki liderler döğüşecek.(Köy "
+"başına 1 altın ve Büyük Savaş Çağı önerilir.)"
 
 #. [time]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:22
 msgid "Magical Darkness"
-msgstr ""
+msgstr "Büyülü Karanlık"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:34
 msgid "Left Leg"
-msgstr ""
+msgstr "Sol Bacak"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:36
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:62
 msgid "south"
-msgstr ""
+msgstr "güney"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:47
 msgid "Control Chip"
-msgstr ""
+msgstr "Kulaklık"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:49
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:75
 msgid "north"
-msgstr ""
+msgstr "kuzey"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:60
 msgid "Right Leg"
-msgstr ""
+msgstr "Sağ Bacak"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:73
 msgid "X-Blaster"
-msgstr ""
+msgstr "Silah"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:89
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:111
 msgid "Recommended settings: 1gpv, Great War Era"
-msgstr ""
+msgstr "Önerilen ayarlar: Köy başına 1 altın ve Büyük Savaş Çağı"
 
 #. [objective]: condition=win
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:91
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:117
 msgid "Death of the northern alliance leaders."
-msgstr ""
+msgstr "Kuzey ittifakı liderlerinin ölümü"
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:95
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:113
 msgid "Death of the southern alliance leaders."
-msgstr ""
+msgstr "Güney ittifakı liderlerinin ölümü"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
@@ -143,158 +154,161 @@ msgid ""
 "Anyone can use them to travel to the other gates.\n"
 "If the destination gate is occupied, the units will swap places."
 msgstr ""
+"Üç atlama rampası var (Buz, Kum ve Kara).\n"
+"Diğer rampalara atlamak isteyen her birim bunları kullanabilir.\n"
+"Hedef rampa doluysa birimler yer değiştirir."
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:207
 msgid "The portal is inscribed with three runes. What will you do?"
-msgstr ""
+msgstr "Her rampaya bir motif çizilmiştir. Nereye atlayacaksınız?"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:209
 msgid "Press the Sand Rune"
-msgstr ""
+msgstr "Kum Rampasına"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:213
 msgid "Press the Ice Rune"
-msgstr ""
+msgstr "Buz Rampasına"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:217
 msgid "Press the Darkness Rune"
-msgstr ""
+msgstr "Kara Rampaya"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
 msgid "4p - Northerners RPG"
-msgstr ""
+msgstr "4o - Kuzeyliler RPG"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
-msgstr ""
+msgstr "Bir RPG tarzı senaryoda kuzeyliler için çok oyunculu bir harita."
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
-msgstr ""
+msgstr "(Önerilen: savaş dumanı, köy başına 1 altın, harita ayarlarını kullan)"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:40
 msgid "Lotus Blossom"
-msgstr ""
+msgstr "Nilüfer Çiçeği"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:43
 msgid "The Lotus heightens zen; ranged weapons are faster."
-msgstr ""
+msgstr "Nilüfer yetiştirme bölgesi; menzilli silahların atış sayısı artar."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:44
 msgid "I hate flowers!"
-msgstr ""
+msgstr "Çiçeklerden nefret ediyorum!"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:85
 msgid "An old suit of Armor"
-msgstr ""
+msgstr "Eski bir zırh giysisi"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:88
 msgid "This armor is old, but it fits great! Ready for more beatings."
-msgstr ""
+msgstr "Bu zırh eski fakat çok işe yarıyor! Daha yenilmez oldum."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:89
 msgid "The armor looks nice, but it's too bulky for me to carry."
-msgstr ""
+msgstr "Zırh güzel görünüyor ama bana ağır gelir, onu taşıyamam."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:140
 msgid "Holy Water"
-msgstr ""
+msgstr "Kutsal Su"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:143
 msgid "This water will make melee weapons holy."
-msgstr ""
+msgstr "Bu su yakın döğüş silahlarına gizemli vuruş yeteneği verir."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:144
 msgid "I am not suited to the use of this item! Let another take it."
-msgstr ""
+msgstr "Bu nesne bana uygun değil! Başkası alsın."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:184
 msgid "Skeletal Claw"
-msgstr ""
+msgstr "İskelet El"
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:187
 msgid "You find a lich's claw, and it hovers at your side obediently."
-msgstr ""
+msgstr "Bir umacının elini buldunuz, ittatkar olarak yanınızda uçacak."
 
-#. [object]
+#. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:188
 msgid "I ain't touching it."
-msgstr ""
+msgstr "Ona dokunmam."
 
 #. [effect]: type=cold
 #. [attack_filter]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:200
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:214
 msgid "lich's claw"
-msgstr ""
+msgstr "umacı eli"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:261
 msgid "Orcish Grunt"
-msgstr ""
+msgstr "Ork İzbandutu"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:276
 msgid "Troll Whelp"
-msgstr ""
+msgstr "Trol Yavrusu"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:290
 msgid "Orcish Archer"
-msgstr ""
+msgstr "Ork Okçusu"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:304
 msgid "Orcish Assassin"
-msgstr ""
+msgstr "Ork Suikastçisi"
 
-#. [trait]
+#. [trait]: id=quick
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:434
 msgid "quick"
-msgstr ""
+msgstr "hızlı"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:510
 msgid "Follow the thief!"
-msgstr ""
+msgstr "Hırsızı izle!"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:518
 msgid "Investigate the area behind the waterfall."
-msgstr ""
+msgstr "Çağlayan çevresini keşfet."
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
 msgid "Death of all characters."
-msgstr ""
+msgstr "Tüm birimleri yen."
 
 #. [message]: speaker=OrcLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:588
 msgid "My gold! My precious gold! Who has stolen it?"
-msgstr ""
+msgstr "Altınım! Kıymetli altınım! Kim çaldı onu?"
 
 #. [message]: speaker=ThiefLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:592
 msgid "Yoink! That was easy."
-msgstr ""
+msgstr "He he, ne kolay oldu."
 
 #. [message]: speaker=OrcLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:618
@@ -303,51 +317,55 @@ msgid ""
 "\n"
 "...and don't come back without my gold, or I'll kill you all myself!"
 msgstr ""
+"Ciğeri beş para etmez soytarılar! Hırsız çağlayanın arkasına kaçtı.\n"
+"\n"
+"Altınım olmadan geri gelmeyin yoksa hepinizi kendim öldürürüm."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:810
 msgid "Village secured."
-msgstr ""
+msgstr "Köy güvenli."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:837
 msgid "You can't stop me! Never!"
-msgstr ""
+msgstr "Beni yakalayamazsın! Asla!"
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:940
 msgid "There's a secret passage here."
-msgstr ""
+msgstr "Burada gizli bir geçit var."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:963
 msgid "This slab won't budge. Maybe if I had a large enough lever."
 msgstr ""
+"Bu kütük yerinden oynamıyor. Büyükçe bir levyem olsaydı oynatabilirdim."
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1024
 msgid "The great tree seems to be decaying. What will you do?"
-msgstr ""
+msgstr "Büyük ağaç ölmek üzere. Ne yapacağız?"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1026
 msgid "Pull off a branch"
-msgstr ""
+msgstr "Bir dal kır"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1055
 msgid "Leave it alone"
-msgstr ""
+msgstr "Bırak git"
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1073
 msgid "At last, I claim my rightful place: as leader of this clan."
-msgstr ""
+msgstr "Nihayet, bu kabilenin lideri olarak hakettiğim yerdeyim."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1115
 msgid "Look, a ship! Time to get out of here."
-msgstr ""
+msgstr "Bak bir gemi! Buradan gitmenin tam zamanı."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
@@ -356,6 +374,9 @@ msgid ""
 "\n"
 "Since its loss, my people have lost our way and become pirates."
 msgstr ""
+"Ah! Sen kutsal ağacımızı çalanlardan biri olmalısın.\n"
+"\n"
+"Onun kaybı yüzünden halkım yolunu şaşırıp korsan oldu."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
@@ -364,11 +385,14 @@ msgid ""
 "\n"
 "You're next, foolish elf."
 msgstr ""
+"Kutsal ağacınızı ben çalmadım, fakat belki çalanı öldürebilirim. Hah.\n"
+"\n"
+"Sıra sende, aptal elf."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1264
 msgid "Pirates! You won't take this land without a fight"
-msgstr ""
+msgstr "Korsanlar! Beni öldürmeden bu toprakları ele geçiremezsiniz."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1270
@@ -378,66 +402,74 @@ msgid ""
 "We went into the caves to find the thief, but he must have died inside. We "
 "never found him."
 msgstr ""
+"Bak! Beni unutun mu?\n"
+"\n"
+"Biz hırsızı bulmaya mağaralara gitmiştik, fakat hırsız oralarda ölmüş "
+"olmalı. Onu bulamadık."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1274
 msgid "You... look familiar. But, no! It's impossible."
-msgstr ""
+msgstr "Sen... tanıdık geliyorsun. Fakat, hayır! Bu imkansız."
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
 msgid "4p - Traitor's Island 2v2"
-msgstr ""
+msgstr "4o - Hainler Adası 2y2"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
 msgstr ""
+"Müttefikinizle aynı kaleyi paylaşmanın taktik bir kabus haline geldiği bir "
+"döğüş."
 
 #. [objectives]
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:26
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
-msgstr ""
+msgstr "Önerilen ayarlar: Kahramanlar çağı ve 50 altın."
 
 #. [objective]: condition=win
-#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 msgid "Kill enemy leaders!"
-msgstr ""
+msgstr "Düşman liderlerini öldür!"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
 msgid "6p - Royal Rumble Lava-Village"
-msgstr ""
+msgstr "6o - Lav Gölü Köyleri"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
 msgid ""
 "Six rulers vie for the control of Lava Village, where there is told to be an "
 "ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
+"Eski bir güç kitabının bulunduğu lav köyünü bulmak için altı lider "
+"yarışacak. (Önerilen ayarlar: %30 TP, köy başına 5 altın)"
 
-#. [time]
+#. [time]: id=day
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:15
 msgid "Day"
-msgstr ""
+msgstr "Gündüz"
 
-#. [time]
+#. [time]: id=night
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:23
 msgid "Night"
-msgstr ""
+msgstr "Gece"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:155
 msgid "Time is shifting fast."
-msgstr ""
+msgstr "Zaman çabuk geçiyor."
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
 msgid "Find the Dark Tome!"
-msgstr ""
+msgstr "Kara kitabı bul!"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
@@ -446,28 +478,31 @@ msgid ""
 "`Note: When a leader dies, all of his troops leave the battle, unless one of "
 "them holds the book of power (which is hidden in a random village)."
 msgstr ""
+"\n"
+"Bilginize: Bir lider öldüğünde, güç kitabını (köylerden birinde saklı) ele "
+"geçirmemişse tüm askerleri savaşı bırakır."
 
-#. [object]
+#. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:311
 msgid "Dark Tome"
-msgstr ""
+msgstr "Kara Kitap"
 
-#. [object]
+#. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:314
 msgid "A Dark Tome was found here."
-msgstr ""
+msgstr "Burada bir kara kitap var."
 
-#. [object]
+#. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:315
 msgid "A Dark Tome was found here, but you could not understand it."
-msgstr ""
+msgstr "Bir kara kitap buldunuz ama onu okuyup anlayamazsınız."
 
 #. [effect]: type=cold
 #. [attack_filter]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:327
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:341
 msgid "dark tome"
-msgstr ""
+msgstr "kara kitap"
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
@@ -475,6 +510,8 @@ msgid ""
 "\n"
 "There's no forest for you to hide in."
 msgstr ""
+"\n"
+"Gizlenebileceğin bir orman yok."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
@@ -482,6 +519,8 @@ msgid ""
 "\n"
 "There isn't? Oh..."
 msgstr ""
+"\n"
+"Yok mu? Hadi ya..."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
@@ -489,6 +528,8 @@ msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
 msgstr ""
+"\n"
+"Beni zehirleyerek bir yere varamazsın, suçlu."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
@@ -496,6 +537,8 @@ msgid ""
 "\n"
 "Thanks for the advice."
 msgstr ""
+"\n"
+"Önerin için teşekkürler."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
@@ -503,6 +546,8 @@ msgid ""
 "\n"
 "Alas... "
 msgstr ""
+"\n"
+"Yazık..."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
@@ -510,3 +555,5 @@ msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
+"\n"
+"Muhahaha... Önce sen geber! Sıra kimde?!"
